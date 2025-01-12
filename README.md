@@ -19,7 +19,7 @@ Este es un proyecto que implementa una aplicación web para la gestión de regis
 ## Instalación y Ejecución
 1. Clona el repositorio en tu máquina local:
    
-   git clone https://github.com/tuusuario/HR-Schema-JSF.git
+   git clone https://github.com/MasBytesDev/HR-Schema-JSF.git
 
 2. Abre el proyecto en JDeveloper
 3. Crea una conexion a la base de datos Oracle Database XE 21c.
