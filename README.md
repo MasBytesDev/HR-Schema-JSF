@@ -1,7 +1,7 @@
 # Proyecto de Gestión de Empleados - Oracle HR Schema
 
 ## Descripción
-Este es un proyecto didáctico que implementa una aplicación web para la gestión de registros del esquema HR de Oracle. La aplicación permite la búsqueda, lectura y actualización de registros de empleados, pero no incluye la funcionalidad para crear o eliminar registros.
+Este es un proyecto que implementa una aplicación web para la gestión de registros del esquema HR de Oracle. La aplicación permite la búsqueda, lectura y actualización de registros de empleados, pero no incluye la funcionalidad para crear o eliminar registros.
 
 ## Tecnologías Utilizadas
 - **IDE**: JDeveloper de Oracle
